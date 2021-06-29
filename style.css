@@ -1,0 +1,32 @@
+marquee{
+    color:darkblue;
+    font-family:cursive;
+    font-size:20px;
+}
+img{
+    border-radius:  120px; 
+}   
+.domain{
+    font-family: cursive;
+    color:darkblue;
+} 
+.series{
+    font-family: cursive;
+    color:darkblue; 
+}
+#id1{
+   font-family: cursive;
+    color:darkblue;  
+}
+#id2{
+    font-family: cursive;
+     color:darkcyan;  
+ }
+ #id3{
+    font-family: cursive;
+     color:darkcyan;  
+ }
+ #id4{
+    font-family: cursive;
+     color:darkcyan;  
+ }
